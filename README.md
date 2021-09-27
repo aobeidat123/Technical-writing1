@@ -1,1 +1,2 @@
-# Technical-writing1
+Hi
+I am Arqam Obeidat, a technical writer from Jordan. 
